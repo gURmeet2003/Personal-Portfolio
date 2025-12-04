@@ -1,26 +1,20 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/gURmeet2003?tab=repositories"
+    "title": "Registration Form",
+    "imageSrc": "projects/Registration Form.png",
+    "description": "A clean and responsive user registration system built with modern web technologies. It offers smooth form interactions, structured validations, and efficient data handling for a seamless user experience.",
+    "source": "https://github.com/gURmeet2003/Registration-Form"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/gURmeet2003?tab=repositories"
+    "title": "Calculator App",
+    "imageSrc": "projects/Calculator.png",
+    "description": "A simple and intuitive calculator application developed using front-end technologies. It features responsive button controls, accurate calculations, and a polished UI designed for easy daily usage.",
+    "source": "https://github.com/gURmeet2003/Calculator"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "Sparkit E-Commerce",
+    "imageSrc": "projects/Sparkit.png",
+    "description": "A modern MERN-based e-commerce platform offering smooth navigation, responsive layouts, and intuitive browsing features. It provides users with a reliable and fluid online shopping experience.",
     "source": "https://github.com/gURmeet2003?tab=repositories"
   }
 ]
